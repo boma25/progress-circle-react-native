@@ -1,6 +1,6 @@
 {
 	"name": "progress-circle-react-native",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "A light-weight progress circle indicator for React Native.",
 	"main": "src/index.js",
 	"scripts": {},
