@@ -1,0 +1,41 @@
+{
+	"name": "progress-circle-react-native",
+	"version": "1.0.0",
+	"description": "A light-weight progress circle indicator for React Native.",
+	"main": "src/index.js",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:boma25/progress-circle-react-native.git"
+	},
+	"keywords": [
+		"react",
+		"react native",
+		"percentage",
+		"circle",
+		"progress",
+		"indicator"
+	],
+	"author": "Boma Amakiri",
+	"license": "MIT",
+	"dependencies": {
+		"deprecated-react-native-prop-types": "^2.3.0"
+	},
+	"devDependencies": {
+		"babel-eslint": "^7.2.1",
+		"babel-jest": "19.0.0",
+		"babel-preset-react-native": "1.9.1",
+		"eslint": "^3.19.0",
+		"eslint-config-airbnb": "^14.1.0",
+		"eslint-plugin-import": "^2.2.0",
+		"eslint-plugin-jsx-a11y": "^4.0.0",
+		"eslint-plugin-react": "^6.10.3",
+		"react": "16.0.0-alpha.6",
+		"react-native": "0.44.0"
+	},
+	"peerDependencies": {
+		"react-native": "*",
+		"react": "*",
+		"prop-types": "*"
+	}
+}
